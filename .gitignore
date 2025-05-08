@@ -3,12 +3,13 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /Shoot fire/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/Shoot fire/[Tt]emp/
+/Shoot fire/[Oo]bj/
+/Shoot fire/[Bb]uild/
+/Shoot fire/[Bb]uilds/
+/Shoot fire/[Ll]ogs/
+/Shoot fire/[Uu]ser[Ss]ettings/
+/Shoot fire/.idea/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
